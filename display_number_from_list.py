@@ -5,6 +5,7 @@ def divisible_by_five(list):
 #list of numbers
 numbers = [10, 20, 33, 46, 55]
 #print the given list:
+print("Given list:", numbers)
 #getting numbers divisible by 5
 #print divisible by 5:
 #print numbers divisible by 5
